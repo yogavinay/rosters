@@ -288,4 +288,5 @@ For support or questions, please contact the development team or create an issue
 **Built with ❤️ for the Andhra Pradesh livestock community**#   a n d h r a - l i v e - s t o c k 
  
  #   l i v e - m a r k e t  
+ #   l i v e - m a r k e t  
  
